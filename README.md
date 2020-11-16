@@ -24,6 +24,9 @@
 
 这就是这个物联网时代的魅力，这也就是我完成此课题的初衷。
 
-![照片1](D:\standard\单片机\实验室成品设计和考试\第二轮\卢思远组作品初审材料\照片1.jpg)
+------
+
+![https://shitu-query-bj.bj.bcebos.com/2020-11-17/00/fe7f17327e9518fa?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-16T16%3A28%3A43Z%2F300%2Fhost%2Fbd0c076ab7f1e96c58d4cfd1e40e1768090714b52a0bc891bbb445400540a2ad]()
 
 > 完成于2020.11.8
+
