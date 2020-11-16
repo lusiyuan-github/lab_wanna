@@ -26,7 +26,6 @@
 
 ------
 
-![https://shitu-query-bj.bj.bcebos.com/2020-11-17/00/fe7f17327e9518fa?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-16T16%3A28%3A43Z%2F300%2Fhost%2Fbd0c076ab7f1e96c58d4cfd1e40e1768090714b52a0bc891bbb445400540a2ad]()
+![](https://shitu-query-bj.bj.bcebos.com/2020-11-17/00/0232d85b855703e8?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-16T16%3A29%3A56Z%2F300%2Fhost%2Faa62e445bb312c1f69f88a039c1660444d3085e925db8f8abe68c37093a229c3)
 
 > 完成于2020.11.8
-
