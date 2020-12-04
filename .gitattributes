@@ -1,0 +1,3 @@
+*.js linguist-language=arduino
+*.css linguist-language=arduino
+*.html linguist-language=arduino
